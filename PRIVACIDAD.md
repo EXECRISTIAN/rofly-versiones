@@ -98,12 +98,12 @@ programa. Cuando la ley lo exija, vamos a pedir tu consentimiento. Si no estas
 de acuerdo con los cambios, podes dejar de usar Rofly y borrar tus datos.
 
 La version vigente esta siempre en la misma direccion:
-https://github.com/EXECRISTIAN/boveda-versiones/blob/main/PRIVACIDAD.md
+https://github.com/EXECRISTIAN/rofly-versiones/blob/main/PRIVACIDAD.md
 
 ## Contacto
 
 Consultas y pedidos de retiro:
-https://github.com/EXECRISTIAN/boveda-versiones/issues
+https://github.com/EXECRISTIAN/rofly-versiones/issues
 
 Rofly no esta afiliado a Riot Games ni respaldado por Riot Games. League of
 Legends es una marca de Riot Games, Inc.
