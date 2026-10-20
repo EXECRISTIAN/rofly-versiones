@@ -1,6 +1,6 @@
 # Rofly privacy policy
 
-Version 5 · Last updated: 18 October 2026
+Version 6 · Last updated: 20 October 2026
 
 ## The short version
 
